@@ -1,5 +1,5 @@
 # Atlas container lab image
-FROM node:99-alpine
+FROM node:18-alpine
 
 WORKDIR /app
 
